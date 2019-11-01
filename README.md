@@ -9,7 +9,7 @@ Project is created with:
 * HTML/CSS
 
 # Run this project on your local machine
-1. Clone Repository '''git clone link'''
+1. Clone Repository 'git clone link'
 2. Go to the directory where the project has been downloaded
-3. Install requirements.txt '''pip install -r requirements.txt'''
-4. Run '''python application.py'''
+3. Install requirements.txt 'pip install -r requirements.txt'
+4. Run 'python application.py'
